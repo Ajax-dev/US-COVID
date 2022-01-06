@@ -1,0 +1,1 @@
+Sitemap: https://ajax-dev.github.io/US-COVID/sitemap.xml
