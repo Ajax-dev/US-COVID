@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Interactive COVID-19 Visualization of United States",
-            "content": "01-01-2021.csv . (58, 20) . (50, 20) . Maps of the states showing case number . Chloropleths showing Deaths 2020 and 2021 . Line graph showing confirmed cases by Region . Stacked bar chart of deaths by region 2020 and 2021 . Heatmap showing death toll by State 2020 and 2021 .",
+            "content": "01-01-2021.csv . (58, 20) . (50, 20) . Maps of the states showing case number . map20 . map21 . Chloropleths showing Deaths 2020 and 2021 . Line graph showing confirmed cases by Region . Stacked bar chart of deaths by region 2020 and 2021 . Heatmap showing death toll by State 2020 and 2021 .",
             "url": "https://ajax-dev.github.io/US-COVID/fastpages/jupyter/visualization/covid/usa/altair/2022/01/06/US-COVID-Statistics.html",
             "relUrl": "/fastpages/jupyter/visualization/covid/usa/altair/2022/01/06/US-COVID-Statistics.html",
             "date": " • Jan 6, 2022"
